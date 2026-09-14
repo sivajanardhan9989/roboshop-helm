@@ -1,0 +1,7 @@
+configmap:
+  mongodbUrl: "mongodb://mongodb:27017/catalogue"
+deployment:
+  imageRepo: sivajanardhan/catalogue
+  imageVersion: 5.0.0
+hpa:
+  cpuPercentage: 80
