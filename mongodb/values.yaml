@@ -1,4 +1,4 @@
 statefulset:
   replicas: 1
-  imageRepo: sivajanardhan/mongodb
+  imagerepo: sivajanardhan/mongodb
   imageVersion: 5.0.0
